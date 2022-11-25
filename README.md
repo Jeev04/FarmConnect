@@ -1,6 +1,8 @@
 Automated solution for farming based on an android app connected to sensors to automate tasks such as irrigation, fertilization etc.
-Arduino provides data to thingspeak server, which is called via its API in the FarmConnect App
+Arduino provides data to thingspeak server, which is called via its API in the FarmConnect App.
+
 Steps to Use:
+
 
   1.Provide wifi and password in SmartIrrigationSystem.cpp
   
